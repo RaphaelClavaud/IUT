@@ -1,16 +1,58 @@
 [
   {
+    "objectID": "vente.html",
+    "href": "vente.html",
+    "title": "Vente",
+    "section": "",
+    "text": "Traces pour la compétence “Vente”\n\nintitulé : Pour mener une vente complexe\nApprentissages critiques développés :\n\n\nAC32.01 | Identifier les techniques d’achat employées par un acheteur professionnel\nAC32.02 | Elaborer des outils de gestion et de calcul efficaces (facture, échéancier,devis) pour la vente complexe\nAC32.03 | Maîtriser les codes propres à l’univers spécifique rencontré : achat, finance, industrie, international, etc\n\n\n\n\n1er livrable semestre 5 en global markets and institutions\n\n\n\n\n\n1er livrable semestre 6 international finance\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "operations_a_l_international.html",
+    "href": "operations_a_l_international.html",
+    "title": "Opérations à l’international",
+    "section": "",
+    "text": "Traces pour la compétence “Opérations à l’international”\n\nintitulé : Pour commercialiser à l’international une offre complexe\nApprentissages critiques développés :\n\n\nAC35.01BI | Mobiliser ses connaissances en processus de vente et d’achat dans des situations interculturelles\nAC35.02BI | Optimiser la chaîne logistique à l’international en intégrant les enjeux environnementaux et éthiques\nAC35.03BI | Gérer l’administration des ventes/achats à l’international notamment grâce à l’évaluation des modalités de financement de l’opération d’import ou d’export\nAC35.04BI | Proposer l’offre marketing adaptée au(x) marché(s) ciblé(s)\n\n\n\n\nExamen d’entrepreneurship semestre 5\n\n\n\n\n\n\n Back to top"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "IUT",
+    "title": "Portfolio 3ème année de BUT TC",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Vous trouverez sur ce site web les preuves pour les compétences de 3ème année pour la filière Business International : Stratégie à l’international, opérations à l’international, marketing et vente.\nJ’essaierai au mieux d’utiliser des preuves développées"
+  },
+  {
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
+    "title": "Portfolio 3ème année de BUT TC",
+    "section": "",
+    "text": "Vous trouverez sur ce site web les preuves pour les compétences de 3ème année pour la filière Business International : Stratégie à l’international, opérations à l’international, marketing et vente.\nJ’essaierai au mieux d’utiliser des preuves développées"
+  },
+  {
+    "objectID": "index.html#comment-utiliser-ce-site",
+    "href": "index.html#comment-utiliser-ce-site",
+    "title": "Portfolio 3ème année de BUT TC",
+    "section": "Comment utiliser ce site ?",
+    "text": "Comment utiliser ce site ?\nCe site web sert de catalogue de traces en fonction de chacune des compétences développées.\nChaque onglet comprends :\n\nLe nom de la compétence développée\nSon intitulé officiel\nLa liste des apprentissages critiques par compétence\nLa trace qui sert de preuve à l’oral pour démontrer l’acquisition des différents apprentissage critiques et donc in fine, la compétence\n\nLes onlgets sont rangés dans le même ordre que leur développement à l’oral."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "marketing.html",
+    "href": "marketing.html",
+    "title": "Marketing",
+    "section": "",
+    "text": "Traces pour la compétence “Marketing”\n\nintitulé : Pour construire une solution client étendue à tous les secteurs d’activités\nApprentissages critiques développés :\n\nAC31.01 | Mettre en place des outils de veille pour anticiper les évolutions de l’environnement\nAC31.02 | Elaborer une stratégie marketing dans un environnement instable (sanitaire, économique ou interne)\nAC31.03 | Faire évoluer l’offre à l’aide de leviers de création de valeur\nAC31.04 | Intégrer la RSE dans la stratégie de l’offre\n\n\n\nExamen d’international marketing semestre 5\n\n\n\n\n\n\n Back to top"
+  },
+  {
+    "objectID": "strategie_a_l_international.html",
+    "href": "strategie_a_l_international.html",
+    "title": "Stratégie à l’international",
+    "section": "",
+    "text": "Traces pour la compétence “Statégie à l’international”\n\nintitulé : Pour agir en tant que chargé du développement import/export\nApprentissages critiques développés :\n\n\nAC34.01BI | Evaluer le diagnostic export/import et faire des préconisations\nAC34.02BI | Evaluer les marchés internationaux en prenant en compte le contexte géo-éco-politique, les particularités culturelles et les enjeux éthiques\nAC34.03BI | Proposer le mode d’entrée (filiale, joint venture, etc.) le plus adéquate\n\n\n\n\n1er livrable de sustainable leadership semestre 6\n\n\n\n\n\n\n Back to top"
   }
 ]

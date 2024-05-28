@@ -1,12 +1,25 @@
 ---
-title: "Raphaël Clavaud"
+title: "Portfolio 3ème année de BUT TC"
 ---
 
-### Portfolio TC3
-Vous trouverez sur ce site web les preuves pour les compétences de 3ème année pour la filière Business International : ***Stratégie à l'international***, et ***opérations à l'international***
+## Introduction
 
-## Stratégie à l'international
-*test* 
+Vous trouverez sur ce site web les preuves pour les compétences de 3ème année pour la filière Business International : ***Stratégie à l'international***, ***opérations à l'international, marketing et vente.***
 
-## Opérations à l'international
+J'essaierai au mieux d'utiliser des preuves développées
 
+## Comment utiliser ce site ?
+
+Ce site web sert de catalogue de traces en fonction de chacune des compétences développées.
+
+Chaque onglet comprends :
+
+-   Le nom de la compétence développée
+
+-   Son intitulé officiel
+
+-   La liste des apprentissages critiques par compétence
+
+-   La trace qui sert de preuve à l'oral pour démontrer l'acquisition des différents apprentissage critiques et donc in fine, la compétence
+
+Les onlgets sont rangés dans le même ordre que leur développement à l'oral.
