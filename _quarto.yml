@@ -1,6 +1,6 @@
 project:
   type: website
-output-dir: submitted
+  output-dir: docs
 
 website:
   back-to-top-navigation: true
@@ -17,7 +17,7 @@ website:
         href: marketing.qmd
       - text: "Vente"
         href: vente.qmd
-  
+
 
 format:
   html:
@@ -41,7 +41,7 @@ format:
     toc: true
     depth: 3
     mainfont: Verdana
-    
+
 theme:
   light: flatly
   dark: darkly
