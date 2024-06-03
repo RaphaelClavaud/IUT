@@ -1,0 +1,20 @@
+---
+title: "Marketing"
+editor: visual
+---
+
+### Traces pour la compétence "*Marketing"*
+
+-   **intitulé :** Pour construire une solution client étendue à tous les secteurs d'activités
+
+-   Apprentissages critiques développés :
+
+AC31.01 \| Mettre en place des outils de veille pour anticiper les évolutions de l'environnement
+
+AC31.02 \| Elaborer une stratégie marketing dans un environnement instable (sanitaire, économique ou interne)
+
+AC31.03 \| Faire évoluer l'offre à l'aide de leviers de création de valeur
+
+AC31.04 \| Intégrer la RSE dans la stratégie de l'offre
+
+![Examen d'international marketing semestre 5](International_Marketing_306.pdf){height="auto" style="max-" width="100%"}

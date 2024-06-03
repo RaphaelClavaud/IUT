@@ -1,0 +1,17 @@
+---
+title: "Opérations à l'international"
+editor: visual
+---
+
+### Traces pour la compétence "*Opérations à l'international"*
+
+-   **intitulé :** Pour commercialiser à l'international une offre complexe
+
+-   Apprentissages critiques développés :
+
+1.  AC35.01BI \| Mobiliser ses connaissances en processus de vente et d'achat dans des situations interculturelles
+2.  AC35.02BI \| Optimiser la chaîne logistique à l'international en intégrant les enjeux environnementaux et éthiques
+3.  AC35.03BI \| Gérer l'administration des ventes/achats à l'international notamment grâce à l'évaluation des modalités de financement de l'opération d'import ou d'export
+4.  AC35.04BI \| Proposer l'offre marketing adaptée au(x) marché(s) ciblé(s)
+
+![Examen d'entrepreneurship semestre 5](Entrepreneurship.pdf){style="height: auto; max-width: 100%;"}

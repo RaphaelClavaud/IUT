@@ -1,0 +1,20 @@
+---
+title: "Vente"
+editor: visual
+---
+
+### Traces pour la compétence "*Vente"*
+
+-   **intitulé :** Pour mener une vente complexe
+
+-   Apprentissages critiques développés :
+
+1.  AC32.01 \| Identifier les techniques d’achat employées par un acheteur professionnel
+
+2.  AC32.02 \| Elaborer des outils de gestion et de calcul efficaces (facture, échéancier,devis) pour la vente complexe
+
+3.  AC32.03 \| Maîtriser les codes propres à l'univers spécifique rencontré : achat, finance, industrie, international, etc
+
+![1er livrable semestre 5 en global markets and institutions](images/Global Markets and Institutions 1st assignement-02.pdf){height="auto" style="max-" width="100%"}
+
+![1er livrable semestre 6 international finance](images/assignement.pdf){height="auto" style="max-" width="100%"}

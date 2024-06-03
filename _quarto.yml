@@ -1,12 +1,23 @@
 project:
   type: website
-  output-dir: submitted
+  output-dir: docs
 
 website:
+  back-to-top-navigation: true
   title: "IUT"
   navbar:
     left:
-      - href: index.qmd
+      - text: "Home"
+        href: index.qmd
+      - text: "Stratégie à l'international"
+        href: strategie_a_l_international.qmd
+      - text: "Opérations à l'international"
+        href: operations_a_l_international.qmd
+      - text: "Marketing"
+        href: marketing.qmd
+      - text: "Vente"
+        href: vente.qmd
+
 
 format:
   html:
@@ -31,3 +42,6 @@ format:
     depth: 3
     mainfont: Verdana
 
+theme:
+  light: flatly
+  dark: darkly
