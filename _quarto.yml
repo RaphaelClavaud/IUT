@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: submitted
+
+website:
+  title: "IUT"
+  navbar:
+    left:
+      - href: index.qmd
+
+format:
+  html:
+    toc: true
+    depth: 3
+    numbered: true
+    mainfont: Arial
+    fontsize: "1.2em"
+    linestretch: 1.5
+  pdf:
+    toc: true
+    depth: 3
+    numbered: true
+    figtab: true
+    mainfont: Times New Roman
+    colorlinks: true
+  docx:
+    toc: true
+    depth: 3
+  epub:
+    toc: true
+    depth: 3
+    mainfont: Verdana
+
